@@ -3,6 +3,7 @@
 ## Clone repository
 
 ```
+git clone https://github.com/drajanikant/nginx-docker-compose.git
 ```
 
 ## Change the directory
