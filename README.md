@@ -1,4 +1,6 @@
 # nginx-docker-compose
+Note: docker compose is essential for the following repository. Following link guide you for installation of docker compose.
+https://docs.docker.com/compose/install/#install-compose
 
 ## Clone repository
 
