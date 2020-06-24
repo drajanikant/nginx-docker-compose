@@ -25,7 +25,7 @@ server {
     listen 80;
     server_name localhost;
 
-    location /adedge/api {
+    location /api {
        proxy_pass http://host.docker.internal:8080/api;
     }
 }
